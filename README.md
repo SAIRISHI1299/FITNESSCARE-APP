@@ -1,5 +1,7 @@
 # FITNESSCARE-APP
-Introduction  
+
+Introduction:
+
 Background: Overview of the fitness industry and the demand for a fitness management app.  
 Objectives: Goals of the app, such as improving user engagement and offering workout sessions.
 
