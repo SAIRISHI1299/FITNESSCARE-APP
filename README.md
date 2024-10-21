@@ -51,6 +51,4 @@ Conclusion:
 - Project summary and impact assessment.
 - Future Work: Potential improvements or additional features for future iterations.
 
-Appendix:
-- Extra materials like survey results, user feedback, or detailed testing results.
-- Reference links for any libraries or frameworks utilized in the project.
+
